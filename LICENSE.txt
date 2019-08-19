@@ -1,2 +1,2 @@
-# LICENSE
+# LICENSE 3.0
 Modify LICENSE
